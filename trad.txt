@@ -1,18 +1,18 @@
 [1]
 en:keyboard
-es:
+es:teclado
 [2]
 en:source code
 es:código fuente
 [3]
 en:compiler
-es:
+es:compilador
 [4]
 en:library
-es:librería
+es:biblioteca
 [5]
 en:repository
-es:
+es:repositorio
 [6]
 en:update
 es:actualización
