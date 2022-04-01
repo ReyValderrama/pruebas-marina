@@ -1,0 +1,22 @@
+[1]
+en:keyboard
+es:teclado
+[2]
+en:source code
+es:código fuente
+[3]
+en:compiler
+es:compilador
+[4]
+en:library
+<<<<<<< HEAD
+es:librería
+=======
+es:biblioteca
+>>>>>>> traductorexterno
+[5]
+en:repository
+es:repositorio
+[6]
+en:update
+es:actualización
